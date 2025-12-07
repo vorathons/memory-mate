@@ -23,8 +23,11 @@
 ## 🛠️ เทคโนโลยีที่ใช้
 
 *   **Frontend:** React, TypeScript, Vite
-*   **UI/Styling:** Tailwind CSS
+ *  **UI/Styling:** Tailwind CSS python
 *   **AI:** Google GenAI SDK (Gemini 2.5 Flash) and vorathon(creator)
+=======
+*   **AI:** Google GenAI SDK (Gemini 2.5 Flash) and vorathon
+>>>>>>> 24af52b (แก้ไขบางอย่าง)
 *   **Icons:** Heroicons / Emojis
 
 ## 🚀 วิธีเริ่มต้นใช้งาน (Setup)
