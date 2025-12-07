@@ -1,0 +1,5 @@
+
+/* เราใช้ Tailwind CDN ใน index.html แล้ว ไม่ต้องใส่ @tailwind ที่นี่ครับ */
+body {
+  font-family: 'Sarabun', sans-serif;
+}
